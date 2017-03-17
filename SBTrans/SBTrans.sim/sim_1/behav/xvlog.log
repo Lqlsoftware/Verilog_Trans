@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LqlSoft Computer/Xilinx/Lql/SBTrans/SBTrans.srcs/sources_1/new/sbTrans.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sbTrans
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LqlSoft Computer/Xilinx/Lql/SBTrans/SBTrans.srcs/sim_1/new/testBanch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testBanch
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LqlSoft Computer/Xilinx/Lql/SBTrans/SBTrans.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
